@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+tensorflow
+tensorboard
+diffusers
+transformers
+accelerate
+datasets
+datasets[audio]
+datasets[video]
+pillow
+opencv-python
+tqdm
